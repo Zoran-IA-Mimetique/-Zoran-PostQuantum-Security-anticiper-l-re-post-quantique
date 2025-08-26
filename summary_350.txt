@@ -1,0 +1,1 @@
+Zoran-Eco-Metrics fournit un module de sobriété énergétique : mesure CPU, RAM, temps, seuils configurables. Rollback Eco-ΔM11.3 si limite dépassée. Preuve technique de conformité durable, reproductible et open-source, intégrée à Zoran aSiM.

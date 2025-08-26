@@ -1,0 +1,1 @@
+Eco-Metrics mesure CPU/RAM et déclenche rollback Eco-ΔM11.3 si seuil dépassé. Sobriété énergétique exécutable pour IA mimétique.
